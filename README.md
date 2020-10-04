@@ -1,7 +1,9 @@
 # GitHub-Flavored Markdown
 
-	ссылка на оригинал статьи из блога Павла Радькова:
-	[https://paulradzkov.com/2014/markdown_cheatsheet/][original]
+ссылка на оригинал статьи из блога Павла Радькова:
+[https://paulradzkov.com/2014/markdown_cheatsheet/][original]
+
+[original]: https://paulradzkov.com/2014/markdown_cheatsheet/ "оригинал статьи из блога Павла Радькова"
 
 ## Краткое руководство
 
@@ -234,5 +236,3 @@ Content Cell  | Content Cell
 Внутри таблиц можно использовать ссылки, наклонный, жирный или зачеркнутый текст.
 
 Для всего остального есть обычный HTML.
-
-[original]: https://paulradzkov.com/2014/markdown_cheatsheet/ "оригинал статьи из блога Павла Радькова"
